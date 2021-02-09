@@ -31,11 +31,9 @@ Project Organization
 
 ### notebooks
 #### Intrinsic evaluation
- - [ ] ALTA 2017
- - [ ] ICDAR 2017 and 2019
- - [ ] IMDB 
+ - [ ] Symspell
+ - [ ] Attentive-Seq2Seq
+ - [ ] BERT 
+ - [ ] BART
+ - [ ] Int-Den
  
-#### Extrinsic evaluation
- - [ ] WMT14
- - [ ] CNN/DM
-
