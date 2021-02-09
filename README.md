@@ -30,7 +30,6 @@ Project Organization
  - [ ] CNN/DM
 
 ### notebooks
-#### Intrinsic evaluation
  - [ ] Symspell
  - [ ] Attentive-Seq2Seq
  - [ ] BERT 
